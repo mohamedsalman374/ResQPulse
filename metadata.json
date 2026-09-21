@@ -1,0 +1,6 @@
+{
+  "name": "ResQPulse",
+  "description": "Emergency SOS assistance and response app with prototype phone number login, live location tracking, nearby hospital directory, and emergency medical profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
